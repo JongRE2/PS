@@ -9,7 +9,7 @@ while True:
     arr.append(c)
     arr.sort()
     a = arr.pop(); b = arr.pop(); c = arr.pop()
-    if a*a == b*b + c*cㄴ:
+    if a*a == b*b + c*c:
         print('right')
     else:
         print('wrong')
