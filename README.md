@@ -1,2 +1,0 @@
-# PS
-Algorithm_solution
